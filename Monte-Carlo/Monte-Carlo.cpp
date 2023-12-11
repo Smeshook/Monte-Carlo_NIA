@@ -124,7 +124,7 @@ class GasParticles {
 int main()
 {
 	srand(time(NULL));
-	int T = 20;
+	int T = 50;
 	remove("output.dat");
 
 	GasParticles Group1;
